@@ -6,7 +6,7 @@ The Curves are calculated using the following three methods:
 1. De-Casteljau algorithm or Nested Linear Interpolation (NLI)
 2. Bernstein Polynomials (BB-Form)
 3. Midpoint Subdivision
-#
+
 Made the application using Qt 5.15.0 and qcustomplot library
 #
 Project file and source code are in "SourceCode" Folder
